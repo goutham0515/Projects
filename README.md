@@ -63,7 +63,10 @@ Key metrics include: Sales, Profit, Profit Margin, Units Sold.
   (p) Supplies
 
   (Q) Tables
-  
+
+This graph shows the sales and profit value range according to the year,quarter 
+
+![2024-12-01 120334](https://github.com/user-attachments/assets/5652dd1d-807b-42cc-a1ea-6735fe92c77d)
 
 A card visual was used to represent the Sum of profit,sales and quantity of categories.
 
@@ -95,7 +98,7 @@ According to the visualizations
 
 (5)Philadelphia
 
-Are the states generated more revinue compair to others ststes USA
+Are the states generated more revinue compair to others states in USA
 
  This Power BI project leverages advanced data modeling to deliver a dynamic analysis of a superstore's operations, transforming raw data into actionable insights. It unravels patterns in sales, discounts, and revenue across categories like Technology, Furniture, and Office Supplies, highlighting regional performance with the West emerging as a key revenue hub. The integration of predictive modeling enables the identification of shipping efficiencies, with Standard Class driving both sales and operational success. Temporal trend analysis uncovers peak revenue periods From Consumers compair to Corporate and Home office  while category-level deep dives reveal opportunities for growth and cost optimization.
 
