@@ -1,0 +1,54 @@
+##ElectroHub Sales Analysis using power-bi Dashboar
+
+#Problem Statement
+
+The Dashboard operates a chain of ElectroHub across multiple locations. The goal of this analysis is to leverage the Power BI tool to Full fill the clint requirement . This will help the management make data-driven decisions to optimize operations, improve sales, and increase profitability..
+
+The analysis will cover multiple years of sales data, including both revenue and profit, across different product categories, store locations, Key metrics include: Sales, Profit, Profit Margin, Units Sold.
+
+##There are 8 questions asked by the clint we have to fullfill the requirement as a analysis with the help of power bi tool 
+
+1)Top/Bottom 5 product by Sales/Profit/Quantity Sold.
+
+  Go to power bi visualization tool With the help of stacked bar  chart by applying filters in the filter Dashboard we can select top and bottom 5 sales, profit % quantity sold
+
+
+ ![2024-12-08 004016](https://github.com/user-attachments/assets/b9e31869-f644-4532-bf9a-0a25207209e7)
+
+2) How do sales trends vary over time (daily, monthly, quarterly, annually)?
+
+3) Show relationship between sales & profit.
+
+4) Average discount offered in each discount category.
+
+5) Total number of orders.
+
+6) Show sales by different cities.
+
+![Screenshot 2024-12-08 145406](https://github.com/user-attachments/assets/442d34db-8f56-489f-a33c-f9c55ebddb79)
+
+Dashboard shows the sales citys by Map and relationship between profit and sales using Scatter chart wiwth the help of bar chart and line chat it the shows discount offered and annual time line of sales
+
+7) Compare sales/profit/quantity sold between any two periods selected by the user.
+
+![Screenshot 2024-12-08 171247](https://github.com/user-attachments/assets/515621ec-00be-4293-be47-cb65231787b3)
+
+ with the help of two different sliceresWhen we wants to showcase sales,profit and quantity in a two periods 
+ After the select slicer and go to Formate table inthat go to Edit interaction change relation according to user requirement
+
+8) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
+
+![Screenshot 2024-12-08 003736](https://github.com/user-attachments/assets/d1f3d8df-4a18-4ee4-a2c5-54e58e45a665)
+
+Slicer is used to create the inraction between table Dashboard
+Table will shows according to over selection 
+
+
+This Power BI project leverages advanced data modeling to deliver a dynamic analysis of a ElectroHub operations, transforming raw data into actionable insights. It unravels patterns in sales, discounts, and revenue across categories & highlighting  8 Top most Clint requirement Apple i phone is the top most sale swith 21.4 M and Tootpast is the lowest sales of 0.02 M in ElectroHub 
+
+
+
+
+
+  
+
