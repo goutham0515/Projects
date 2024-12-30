@@ -1,5 +1,3 @@
-# Projects
-
 # Superstore Sales Analysis using power-bi Dashboard
 
 ### Dashboard Link : 
