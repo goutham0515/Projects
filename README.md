@@ -1,16 +1,11 @@
 # Superstore Sales Analysis using power-bi Dashboard
 
-### Dashboard Link : 
-
 ## Problem Statement
 
 The Dashboard operates a chain of superstores across multiple locations. The goal of this analysis is to leverage the Power BI tool to gain insights into the sales, profit margins, and performance of different product categories and regions. This will help the management make data-driven decisions to optimize operations, improve sales, and increase profitability..
 
 The analysis will cover multiple years of sales data, including both revenue and profit, across different product categories, store locations, and regions.
 Key metrics include: Sales, Profit, Profit Margin, Units Sold.
-
-
-
 
 ### Steps followed 
 
